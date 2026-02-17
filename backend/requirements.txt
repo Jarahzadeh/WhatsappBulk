@@ -1,0 +1,15 @@
+fastapi==0.116.1
+uvicorn[standard]==0.35.0
+sqlalchemy==2.0.41
+psycopg[binary]==3.2.9
+alembic==1.16.4
+python-dotenv==1.1.1
+pydantic-settings==2.10.1
+phonenumbers==8.13.45
+httpx==0.28.1
+pandas==2.2.3
+openpyxl==3.1.5
+python-multipart==0.0.20
+itsdangerous==2.2.0
+pytest==8.4.1
+pytest-asyncio==1.1.0

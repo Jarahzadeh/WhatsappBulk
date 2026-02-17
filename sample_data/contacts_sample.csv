@@ -1,0 +1,4 @@
+name,phone,language,tags,opt_in_status,opt_in_source,opt_in_time,opt_in_text
+Ali,+971501111111,ar,dubai|ramadan,true,web_form,2026-01-02T10:00:00,"I agree to receive menu updates via WhatsApp"
+Sara,0502222222,en,fujairah|vip,true,pos_receipt,2026-01-10T12:00:00,"Ticked box at checkout"
+Reza,+971503333333,fa,dubai|persian,false,,,
